@@ -68,3 +68,10 @@ results/
 *.temp
 *~
 
+# Non-technical documentation
+README.md
+INTERIM_*.md
+FINAL_*.md
+*.pdf
+*.docx
+
